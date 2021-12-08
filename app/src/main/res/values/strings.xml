@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Quotes</string>
+    <string name="search_button_text">Search</string>
+    <string name="quote_text">Quote</string>
+    <string name="edit_quotes_button_text">Edit Quotes</string>
+    <string name="add_quote_title">Add Quote</string>
+    <string name="quote_text_hint">quotes</string>
+    <string name="night_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="find_quotes">Find Quotes</string>
+    <string name="search_quote_button_text">generate_notification</string>
+</resources>
